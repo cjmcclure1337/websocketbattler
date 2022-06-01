@@ -1,0 +1,7 @@
+Multiple status effects at once
+Randomize move selection
+Multiple combatants
+Targetting w/ multiple combatants
+Name generation
+Attacks scale off of stats
+Death handling

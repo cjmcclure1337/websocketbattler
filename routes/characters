@@ -1,0 +1,12 @@
+var express = require('express');
+var router = express.Router();
+
+const characterController = require("../controllers/utils")
+
+
+/* GET home page. */
+router.get('/new', function(req, res, next) {
+    res.send(characterController.generateCharacter());
+});
+
+module.exports = router;

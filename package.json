@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.17.3",
+    "express-ws": "^5.0.2",
+    "node-cron": "^3.0.0"
+  }
+}
